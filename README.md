@@ -54,8 +54,9 @@ This project explores over 86,000 Airbnb listings in Paris using Python. It incl
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
+```text
 airbnb-paris-analysis/
 ├── data/
 │   ├── listings.csv                # Raw data
@@ -64,8 +65,7 @@ airbnb-paris-analysis/
 │   └── paris_airbnb_analysis.ipynb
 ├── README.md
 ├── requirements.txt
-
-
+```
 
 ---
 
