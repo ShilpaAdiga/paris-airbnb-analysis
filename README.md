@@ -56,7 +56,15 @@ This project explores over 86,000 Airbnb listings in Paris using Python. It incl
 
 ## 📁 Project Structure
 
-<pre> airbnb-paris-analysis/ ├── data/ │ ├── listings.csv # Raw dataset from Inside Airbnb │ └── paris_airbnb_cleaned.csv # Cleaned dataset after preprocessing ├── notebooks/ │ └── paris_airbnb_analysis.ipynb # Main analysis notebook ├── requirements.txt # Python dependencies └── README.md # Project overview and documentation </pre>
+airbnb-paris-analysis/
+├── data/
+│   ├── listings.csv                # Raw data
+│   └── paris_airbnb_cleaned.csv    # Cleaned data
+├── notebooks/
+│   └── paris_airbnb_analysis.ipynb
+├── README.md
+├── requirements.txt
+
 
 
 ---
